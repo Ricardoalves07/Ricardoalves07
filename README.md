@@ -10,7 +10,7 @@
 
  ## Habilidades
 
-- **Linguagens de Programação:** Python, C, Java e PHP.
+- **Linguagens de Programação:** Python, C, Java.
 - **Desenvolvimento Backend**
 - **Desenvolvimento de Aplicações Escaláveis** 
 - **Áreas de Interesse:** Machine Learning, Internet das Coisas (IoT), Automação Industrial, Sistemas de Controle, Integração de Software e Hardware,
