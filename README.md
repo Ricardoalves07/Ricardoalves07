@@ -26,7 +26,7 @@
 ### Estagiário em Produção de Material Didático
 
 **[UNILAB]** — [Redenção,Ceará]  
-**[Janeiro de 2024] – [atualmente]**
+**[Janeiro de 2024] – [janeiro de 2026]**
 
 - Colaborei na criação e organização de materiais didáticos interativos para cursos na plataforma Moodle, contribuindo para a melhoria da experiência de aprendizado online.
 - Auxiliação na adaptação de conteúdos presenciais para o formato de ensino a distância, utilizando princípios pedagógicos e melhores práticas de e-learning.
